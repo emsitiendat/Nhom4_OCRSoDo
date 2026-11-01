@@ -1,0 +1,10 @@
+﻿group,metric,value,note
+Tampering Detection,accuracy,0.6972477064220184,Grouped OOF on current Real/Text-Tamper dataset
+Tampering Detection,precision,0.4772727272727273,Grouped OOF on current Real/Text-Tamper dataset
+Tampering Detection,recall,0.6774193548387096,Grouped OOF on current Real/Text-Tamper dataset
+Tampering Detection,f1,0.56,Grouped OOF on current Real/Text-Tamper dataset
+Tampering Detection,auc_roc,0.7274607113316791,Grouped OOF on current Real/Text-Tamper dataset
+OCR,CER,0.0,Controlled synthetic OCR benchmark
+OCR,WER,0.0,Controlled synthetic OCR benchmark
+Geometry,MAE_px,39.36724897328498,Controlled synthetic geometry benchmark
+Geometry,RMSE_px,70.67017774794886,Controlled synthetic geometry benchmark

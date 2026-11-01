@@ -1,0 +1,2 @@
+﻿n_samples,n_real,n_tampered,tn,fp,fn,tp,accuracy,precision,recall,specificity,f1,balanced_accuracy,auc_roc,split_note
+109,78,31,55,23,10,21,0.6972477064220184,0.4772727272727273,0.6774193548387096,0.7051282051282052,0.56,0.6912737799834574,0.7274607113316791,Out-of-fold grouped by source_index

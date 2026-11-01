@@ -1,0 +1,5 @@
+﻿field,field_name,n_samples,cer,wer,exact_match_accuracy,benchmark
+so_thua,Số thửa,30,0.0,0.0,1.0,controlled synthetic OCR
+to_ban_do,Tờ bản đồ,30,0.0,0.0,1.0,controlled synthetic OCR
+dien_tich,Diện tích,30,0.0,0.0,1.0,controlled synthetic OCR
+overall,Tổng hợp 3 trường,90,0.0,0.0,1.0,controlled synthetic OCR

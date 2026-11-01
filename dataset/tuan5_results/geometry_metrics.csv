@@ -1,0 +1,2 @@
+﻿n_samples,mae_px,rmse_px,mape,line_detection_rate,benchmark
+40,39.36724897328498,70.67017774794886,0.13563205581567908,1.0,controlled synthetic geometry

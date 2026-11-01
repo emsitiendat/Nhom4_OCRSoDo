@@ -1,0 +1,247 @@
+﻿source_index,raw_name,real_name,output_name,label,tamper_type,tamper_target,tamper_note
+1,real_001.jpg,anonymized_real_001.png,anonymized_real_001.png,real,none,none,anonymized_only
+1,real_001.jpg,anonymized_real_001.png,fake_diagram_001.png,tampered,diagram,diagram_roi,line_break
+1,real_001.jpg,anonymized_real_001.png,fake_seal_001.png,tampered,seal,seal_roi,seal_partial_remove
+2,real_002.jpg,anonymized_real_002.png,anonymized_real_002.png,real,none,none,anonymized_only
+2,real_002.jpg,anonymized_real_002.png,fake_text_002.png,tampered,text,dien_tich,"165,0 -> 168,0"
+2,real_002.jpg,anonymized_real_002.png,fake_diagram_002.png,tampered,diagram,diagram_roi,parallel_line_add
+2,real_002.jpg,anonymized_real_002.png,fake_seal_002.png,tampered,seal,seal_roi,seal_local_blur
+3,real_003.jpg,anonymized_real_003.png,anonymized_real_003.png,real,none,none,anonymized_only
+3,real_003.jpg,anonymized_real_003.png,fake_text_003.png,tampered,text,to_ban_do,1 -> 4
+3,real_003.jpg,anonymized_real_003.png,fake_diagram_003.png,tampered,diagram,diagram_roi,short_line_add
+3,real_003.jpg,anonymized_real_003.png,fake_seal_003.png,tampered,seal,seal_roi,seal_color_fade
+4,real_005.jpg,anonymized_real_004.png,anonymized_real_004.png,real,none,none,anonymized_only
+4,real_005.jpg,anonymized_real_004.png,fake_text_004.png,tampered,text,dien_tich,"34,0 -> 37,0"
+4,real_005.jpg,anonymized_real_004.png,fake_diagram_004.png,tampered,diagram,diagram_roi,line_break
+4,real_005.jpg,anonymized_real_004.png,fake_seal_004.png,tampered,seal,seal_roi,seal_partial_remove
+5,real_006.jpg,anonymized_real_005.png,anonymized_real_005.png,real,none,none,anonymized_only
+5,real_006.jpg,anonymized_real_005.png,fake_text_005.png,tampered,text,dien_tich,"54,1m -> 54,4m"
+5,real_006.jpg,anonymized_real_005.png,fake_diagram_005.png,tampered,diagram,diagram_roi,parallel_line_add
+5,real_006.jpg,anonymized_real_005.png,fake_seal_005.png,tampered,seal,seal_roi,seal_local_blur
+6,real_007.jpg,anonymized_real_006.png,anonymized_real_006.png,real,none,none,anonymized_only
+6,real_007.jpg,anonymized_real_006.png,fake_text_006.png,tampered,text,to_ban_do,23 -> 53
+6,real_007.jpg,anonymized_real_006.png,fake_diagram_006.png,tampered,diagram,diagram_roi,short_line_add
+6,real_007.jpg,anonymized_real_006.png,fake_seal_006.png,tampered,seal,seal_roi,seal_color_fade
+7,real_008.jpg,anonymized_real_007.png,anonymized_real_007.png,real,none,none,anonymized_only
+7,real_008.jpg,anonymized_real_007.png,fake_text_007.png,tampered,text,dien_tich,"37,7 -> 30,7"
+7,real_008.jpg,anonymized_real_007.png,fake_diagram_007.png,tampered,diagram,diagram_roi,line_break
+7,real_008.jpg,anonymized_real_007.png,fake_seal_007.png,tampered,seal,seal_roi,seal_partial_remove
+8,real_009.png,anonymized_real_008.png,anonymized_real_008.png,real,none,none,anonymized_only
+8,real_009.png,anonymized_real_008.png,fake_text_008.png,tampered,text,to_ban_do,47 -> 77
+8,real_009.png,anonymized_real_008.png,fake_diagram_008.png,tampered,diagram,diagram_roi,parallel_line_add
+8,real_009.png,anonymized_real_008.png,fake_seal_008.png,tampered,seal,seal_roi,seal_local_blur
+9,real_010.jpg,anonymized_real_009.png,anonymized_real_009.png,real,none,none,anonymized_only
+9,real_010.jpg,anonymized_real_009.png,fake_text_009.png,tampered,text,to_ban_do,33 -> 36
+9,real_010.jpg,anonymized_real_009.png,fake_diagram_009.png,tampered,diagram,diagram_roi,short_line_add
+9,real_010.jpg,anonymized_real_009.png,fake_seal_009.png,tampered,seal,seal_roi,seal_color_fade
+10,real_011.png,anonymized_real_010.png,anonymized_real_010.png,real,none,none,anonymized_only
+10,real_011.png,anonymized_real_010.png,fake_diagram_010.png,tampered,diagram,diagram_roi,line_break
+10,real_011.png,anonymized_real_010.png,fake_seal_010.png,tampered,seal,seal_roi,seal_partial_remove
+11,real_012.jpg,anonymized_real_011.png,anonymized_real_011.png,real,none,none,anonymized_only
+11,real_012.jpg,anonymized_real_011.png,fake_text_011.png,tampered,text,so_thua,178 -> 171
+11,real_012.jpg,anonymized_real_011.png,fake_diagram_011.png,tampered,diagram,diagram_roi,parallel_line_add
+11,real_012.jpg,anonymized_real_011.png,fake_seal_011.png,tampered,seal,seal_roi,seal_local_blur
+12,real_013.jpg,anonymized_real_012.png,anonymized_real_012.png,real,none,none,anonymized_only
+12,real_013.jpg,anonymized_real_012.png,fake_text_012.png,tampered,text,dien_tich,"420,0m -> 720,0m"
+12,real_013.jpg,anonymized_real_012.png,fake_diagram_012.png,tampered,diagram,diagram_roi,short_line_add
+12,real_013.jpg,anonymized_real_012.png,fake_seal_012.png,tampered,seal,seal_roi,seal_color_fade
+13,real_014.jpg,anonymized_real_013.png,anonymized_real_013.png,real,none,none,anonymized_only
+13,real_014.jpg,anonymized_real_013.png,fake_text_013.png,tampered,text,dien_tich,"244,5 -> 274,5"
+13,real_014.jpg,anonymized_real_013.png,fake_diagram_013.png,tampered,diagram,diagram_roi,line_break
+13,real_014.jpg,anonymized_real_013.png,fake_seal_013.png,tampered,seal,seal_roi,seal_partial_remove
+14,real_015.jpg,anonymized_real_014.png,anonymized_real_014.png,real,none,none,anonymized_only
+14,real_015.jpg,anonymized_real_014.png,fake_text_014.png,tampered,text,dien_tich,"149,9 -> 142,9"
+14,real_015.jpg,anonymized_real_014.png,fake_diagram_014.png,tampered,diagram,diagram_roi,parallel_line_add
+14,real_015.jpg,anonymized_real_014.png,fake_seal_014.png,tampered,seal,seal_roi,seal_local_blur
+15,real_016.jpg,anonymized_real_015.png,anonymized_real_015.png,real,none,none,anonymized_only
+15,real_016.jpg,anonymized_real_015.png,fake_text_015.png,tampered,text,dien_tich,"149,8 -> 149,1"
+15,real_016.jpg,anonymized_real_015.png,fake_diagram_015.png,tampered,diagram,diagram_roi,short_line_add
+15,real_016.jpg,anonymized_real_015.png,fake_seal_015.png,tampered,seal,seal_roi,seal_color_fade
+16,real_017.jpg,anonymized_real_016.png,anonymized_real_016.png,real,none,none,anonymized_only
+16,real_017.jpg,anonymized_real_016.png,fake_text_016.png,tampered,text,dien_tich,2097 -> 5097
+16,real_017.jpg,anonymized_real_016.png,fake_diagram_016.png,tampered,diagram,diagram_roi,line_break
+17,real_018.jpg,anonymized_real_017.png,anonymized_real_017.png,real,none,none,anonymized_only
+17,real_018.jpg,anonymized_real_017.png,fake_text_017.png,tampered,text,so_thua,579 -> 572
+17,real_018.jpg,anonymized_real_017.png,fake_diagram_017.png,tampered,diagram,diagram_roi,parallel_line_add
+17,real_018.jpg,anonymized_real_017.png,fake_seal_017.png,tampered,seal,seal_roi,seal_local_blur
+18,real_019.jpg,anonymized_real_018.png,anonymized_real_018.png,real,none,none,anonymized_only
+18,real_019.jpg,anonymized_real_018.png,fake_diagram_018.png,tampered,diagram,diagram_roi,short_line_add
+18,real_019.jpg,anonymized_real_018.png,fake_seal_018.png,tampered,seal,seal_roi,seal_color_fade
+19,real_020.jpg,anonymized_real_019.png,anonymized_real_019.png,real,none,none,anonymized_only
+19,real_020.jpg,anonymized_real_019.png,fake_text_019.png,tampered,text,dien_tich,135m -> 165m
+19,real_020.jpg,anonymized_real_019.png,fake_diagram_019.png,tampered,diagram,diagram_roi,line_break
+19,real_020.jpg,anonymized_real_019.png,fake_seal_019.png,tampered,seal,seal_roi,seal_partial_remove
+20,real_021.jpg,anonymized_real_020.png,anonymized_real_020.png,real,none,none,anonymized_only
+20,real_021.jpg,anonymized_real_020.png,fake_text_020.png,tampered,text,dien_tich,"55,7m -> 55,0m"
+20,real_021.jpg,anonymized_real_020.png,fake_diagram_020.png,tampered,diagram,diagram_roi,parallel_line_add
+20,real_021.jpg,anonymized_real_020.png,fake_seal_020.png,tampered,seal,seal_roi,seal_local_blur
+21,real_022.jpg,anonymized_real_021.png,anonymized_real_021.png,real,none,none,anonymized_only
+21,real_022.jpg,anonymized_real_021.png,fake_text_021.png,tampered,text,dien_tich,125m -> 425m
+21,real_022.jpg,anonymized_real_021.png,fake_diagram_021.png,tampered,diagram,diagram_roi,short_line_add
+21,real_022.jpg,anonymized_real_021.png,fake_seal_021.png,tampered,seal,seal_roi,seal_color_fade
+22,real_023.jpg,anonymized_real_022.png,anonymized_real_022.png,real,none,none,anonymized_only
+22,real_023.jpg,anonymized_real_022.png,fake_text_022.png,tampered,text,dien_tich,"45,32 -> 45,62"
+22,real_023.jpg,anonymized_real_022.png,fake_diagram_022.png,tampered,diagram,diagram_roi,line_break
+22,real_023.jpg,anonymized_real_022.png,fake_seal_022.png,tampered,seal,seal_roi,seal_partial_remove
+23,real_024.jpg,anonymized_real_023.png,anonymized_real_023.png,real,none,none,anonymized_only
+23,real_024.jpg,anonymized_real_023.png,fake_text_023.png,tampered,text,dien_tich,197m -> 190m
+23,real_024.jpg,anonymized_real_023.png,fake_diagram_023.png,tampered,diagram,diagram_roi,parallel_line_add
+23,real_024.jpg,anonymized_real_023.png,fake_seal_023.png,tampered,seal,seal_roi,seal_local_blur
+24,real_025.jpg,anonymized_real_024.png,anonymized_real_024.png,real,none,none,anonymized_only
+24,real_025.jpg,anonymized_real_024.png,fake_text_024.png,tampered,text,to_ban_do,"278,3m -> 578,3m"
+24,real_025.jpg,anonymized_real_024.png,fake_diagram_024.png,tampered,diagram,diagram_roi,short_line_add
+24,real_025.jpg,anonymized_real_024.png,fake_seal_024.png,tampered,seal,seal_roi,seal_color_fade
+25,real_026.jpg,anonymized_real_025.png,anonymized_real_025.png,real,none,none,anonymized_only
+25,real_026.jpg,anonymized_real_025.png,fake_diagram_025.png,tampered,diagram,diagram_roi,line_break
+26,real_027.jpg,anonymized_real_026.png,anonymized_real_026.png,real,none,none,anonymized_only
+26,real_027.jpg,anonymized_real_026.png,fake_text_026.png,tampered,text,dien_tich,8t -> 1t
+26,real_027.jpg,anonymized_real_026.png,fake_diagram_026.png,tampered,diagram,diagram_roi,parallel_line_add
+26,real_027.jpg,anonymized_real_026.png,fake_seal_026.png,tampered,seal,seal_roi,seal_local_blur
+27,real_028.jpg,anonymized_real_027.png,anonymized_real_027.png,real,none,none,anonymized_only
+27,real_028.jpg,anonymized_real_027.png,fake_text_027.png,tampered,text,to_ban_do,49 -> 42
+27,real_028.jpg,anonymized_real_027.png,fake_diagram_027.png,tampered,diagram,diagram_roi,short_line_add
+27,real_028.jpg,anonymized_real_027.png,fake_seal_027.png,tampered,seal,seal_roi,seal_color_fade
+28,real_029.jpg,anonymized_real_028.png,anonymized_real_028.png,real,none,none,anonymized_only
+28,real_029.jpg,anonymized_real_028.png,fake_diagram_028.png,tampered,diagram,diagram_roi,line_break
+28,real_029.jpg,anonymized_real_028.png,fake_seal_028.png,tampered,seal,seal_roi,seal_partial_remove
+29,real_030.jpg,anonymized_real_029.png,anonymized_real_029.png,real,none,none,anonymized_only
+29,real_030.jpg,anonymized_real_029.png,fake_diagram_029.png,tampered,diagram,diagram_roi,parallel_line_add
+29,real_030.jpg,anonymized_real_029.png,fake_seal_029.png,tampered,seal,seal_roi,seal_local_blur
+30,real_031.jpg,anonymized_real_030.png,anonymized_real_030.png,real,none,none,anonymized_only
+30,real_031.jpg,anonymized_real_030.png,fake_diagram_030.png,tampered,diagram,diagram_roi,short_line_add
+30,real_031.jpg,anonymized_real_030.png,fake_seal_030.png,tampered,seal,seal_roi,seal_color_fade
+31,real_032.jpg,anonymized_real_031.png,anonymized_real_031.png,real,none,none,anonymized_only
+31,real_032.jpg,anonymized_real_031.png,fake_diagram_031.png,tampered,diagram,diagram_roi,line_break
+31,real_032.jpg,anonymized_real_031.png,fake_seal_031.png,tampered,seal,seal_roi,seal_partial_remove
+32,real_033.jpg,anonymized_real_032.png,anonymized_real_032.png,real,none,none,anonymized_only
+32,real_033.jpg,anonymized_real_032.png,fake_diagram_032.png,tampered,diagram,diagram_roi,parallel_line_add
+32,real_033.jpg,anonymized_real_032.png,fake_seal_032.png,tampered,seal,seal_roi,seal_local_blur
+33,real_034.jpg,anonymized_real_033.png,anonymized_real_033.png,real,none,none,anonymized_only
+33,real_034.jpg,anonymized_real_033.png,fake_diagram_033.png,tampered,diagram,diagram_roi,short_line_add
+33,real_034.jpg,anonymized_real_033.png,fake_seal_033.png,tampered,seal,seal_roi,seal_color_fade
+34,real_035.jpg,anonymized_real_034.png,anonymized_real_034.png,real,none,none,anonymized_only
+34,real_035.jpg,anonymized_real_034.png,fake_text_034.png,tampered,text,dien_tich,"4,0 -> 7,0"
+34,real_035.jpg,anonymized_real_034.png,fake_diagram_034.png,tampered,diagram,diagram_roi,line_break
+35,real_036.jpg,anonymized_real_035.png,anonymized_real_035.png,real,none,none,anonymized_only
+35,real_036.jpg,anonymized_real_035.png,fake_text_035.png,tampered,text,dien_tich,"34,0 -> 34,3"
+35,real_036.jpg,anonymized_real_035.png,fake_diagram_035.png,tampered,diagram,diagram_roi,parallel_line_add
+36,real_037.jpg,anonymized_real_036.png,anonymized_real_036.png,real,none,none,anonymized_only
+36,real_037.jpg,anonymized_real_036.png,fake_diagram_036.png,tampered,diagram,diagram_roi,short_line_add
+37,real_038.jpg,anonymized_real_037.png,anonymized_real_037.png,real,none,none,anonymized_only
+37,real_038.jpg,anonymized_real_037.png,fake_diagram_037.png,tampered,diagram,diagram_roi,line_break
+37,real_038.jpg,anonymized_real_037.png,fake_seal_037.png,tampered,seal,seal_roi,seal_partial_remove
+38,real_039.jpg,anonymized_real_038.png,anonymized_real_038.png,real,none,none,anonymized_only
+38,real_039.jpg,anonymized_real_038.png,fake_diagram_038.png,tampered,diagram,diagram_roi,parallel_line_add
+39,real_040.jpg,anonymized_real_039.png,anonymized_real_039.png,real,none,none,anonymized_only
+39,real_040.jpg,anonymized_real_039.png,fake_diagram_039.png,tampered,diagram,diagram_roi,short_line_add
+39,real_040.jpg,anonymized_real_039.png,fake_seal_039.png,tampered,seal,seal_roi,seal_color_fade
+40,real_041.jpg,anonymized_real_040.png,anonymized_real_040.png,real,none,none,anonymized_only
+40,real_041.jpg,anonymized_real_040.png,fake_diagram_040.png,tampered,diagram,diagram_roi,line_break
+40,real_041.jpg,anonymized_real_040.png,fake_seal_040.png,tampered,seal,seal_roi,seal_partial_remove
+41,real_042.jpg,anonymized_real_041.png,anonymized_real_041.png,real,none,none,anonymized_only
+41,real_042.jpg,anonymized_real_041.png,fake_text_041.png,tampered,text,dien_tich,"41,6 -> 41,9"
+41,real_042.jpg,anonymized_real_041.png,fake_diagram_041.png,tampered,diagram,diagram_roi,parallel_line_add
+42,real_043.jpg,anonymized_real_042.png,anonymized_real_042.png,real,none,none,anonymized_only
+42,real_043.jpg,anonymized_real_042.png,fake_diagram_042.png,tampered,diagram,diagram_roi,short_line_add
+42,real_043.jpg,anonymized_real_042.png,fake_seal_042.png,tampered,seal,seal_roi,seal_color_fade
+43,real_044.jpg,anonymized_real_043.png,anonymized_real_043.png,real,none,none,anonymized_only
+43,real_044.jpg,anonymized_real_043.png,fake_diagram_043.png,tampered,diagram,diagram_roi,line_break
+43,real_044.jpg,anonymized_real_043.png,fake_seal_043.png,tampered,seal,seal_roi,seal_partial_remove
+44,real_045.jpg,anonymized_real_044.png,anonymized_real_044.png,real,none,none,anonymized_only
+44,real_045.jpg,anonymized_real_044.png,fake_diagram_044.png,tampered,diagram,diagram_roi,parallel_line_add
+45,real_046.jpg,anonymized_real_045.png,anonymized_real_045.png,real,none,none,anonymized_only
+45,real_046.jpg,anonymized_real_045.png,fake_diagram_045.png,tampered,diagram,diagram_roi,short_line_add
+45,real_046.jpg,anonymized_real_045.png,fake_seal_045.png,tampered,seal,seal_roi,seal_color_fade
+46,real_047.jpg,anonymized_real_046.png,anonymized_real_046.png,real,none,none,anonymized_only
+46,real_047.jpg,anonymized_real_046.png,fake_diagram_046.png,tampered,diagram,diagram_roi,line_break
+47,real_048.jpg,anonymized_real_047.png,anonymized_real_047.png,real,none,none,anonymized_only
+47,real_048.jpg,anonymized_real_047.png,fake_diagram_047.png,tampered,diagram,diagram_roi,parallel_line_add
+47,real_048.jpg,anonymized_real_047.png,fake_seal_047.png,tampered,seal,seal_roi,seal_local_blur
+48,real_049.jpg,anonymized_real_048.png,anonymized_real_048.png,real,none,none,anonymized_only
+48,real_049.jpg,anonymized_real_048.png,fake_diagram_048.png,tampered,diagram,diagram_roi,short_line_add
+48,real_049.jpg,anonymized_real_048.png,fake_seal_048.png,tampered,seal,seal_roi,seal_color_fade
+49,real_050.jpg,anonymized_real_049.png,anonymized_real_049.png,real,none,none,anonymized_only
+49,real_050.jpg,anonymized_real_049.png,fake_diagram_049.png,tampered,diagram,diagram_roi,line_break
+49,real_050.jpg,anonymized_real_049.png,fake_seal_049.png,tampered,seal,seal_roi,seal_partial_remove
+50,real_051.jpg,anonymized_real_050.png,anonymized_real_050.png,real,none,none,anonymized_only
+50,real_051.jpg,anonymized_real_050.png,fake_diagram_050.png,tampered,diagram,diagram_roi,parallel_line_add
+51,real_052.jpg,anonymized_real_051.png,anonymized_real_051.png,real,none,none,anonymized_only
+51,real_052.jpg,anonymized_real_051.png,fake_diagram_051.png,tampered,diagram,diagram_roi,short_line_add
+52,real_053.jpg,anonymized_real_052.png,anonymized_real_052.png,real,none,none,anonymized_only
+52,real_053.jpg,anonymized_real_052.png,fake_diagram_052.png,tampered,diagram,diagram_roi,line_break
+52,real_053.jpg,anonymized_real_052.png,fake_seal_052.png,tampered,seal,seal_roi,seal_partial_remove
+53,real_054.jpg,anonymized_real_053.png,anonymized_real_053.png,real,none,none,anonymized_only
+53,real_054.jpg,anonymized_real_053.png,fake_diagram_053.png,tampered,diagram,diagram_roi,parallel_line_add
+53,real_054.jpg,anonymized_real_053.png,fake_seal_053.png,tampered,seal,seal_roi,seal_local_blur
+54,real_055.jpg,anonymized_real_054.png,anonymized_real_054.png,real,none,none,anonymized_only
+54,real_055.jpg,anonymized_real_054.png,fake_diagram_054.png,tampered,diagram,diagram_roi,short_line_add
+54,real_055.jpg,anonymized_real_054.png,fake_seal_054.png,tampered,seal,seal_roi,seal_color_fade
+55,real_056.jpg,anonymized_real_055.png,anonymized_real_055.png,real,none,none,anonymized_only
+55,real_056.jpg,anonymized_real_055.png,fake_diagram_055.png,tampered,diagram,diagram_roi,line_break
+56,real_057.jpg,anonymized_real_056.png,anonymized_real_056.png,real,none,none,anonymized_only
+56,real_057.jpg,anonymized_real_056.png,fake_diagram_056.png,tampered,diagram,diagram_roi,parallel_line_add
+57,real_058.jpg,anonymized_real_057.png,anonymized_real_057.png,real,none,none,anonymized_only
+57,real_058.jpg,anonymized_real_057.png,fake_diagram_057.png,tampered,diagram,diagram_roi,short_line_add
+57,real_058.jpg,anonymized_real_057.png,fake_seal_057.png,tampered,seal,seal_roi,seal_color_fade
+58,real_059.jpg,anonymized_real_058.png,anonymized_real_058.png,real,none,none,anonymized_only
+58,real_059.jpg,anonymized_real_058.png,fake_diagram_058.png,tampered,diagram,diagram_roi,line_break
+59,real_060.jpg,anonymized_real_059.png,anonymized_real_059.png,real,none,none,anonymized_only
+59,real_060.jpg,anonymized_real_059.png,fake_diagram_059.png,tampered,diagram,diagram_roi,parallel_line_add
+59,real_060.jpg,anonymized_real_059.png,fake_seal_059.png,tampered,seal,seal_roi,seal_local_blur
+60,real_061.jpg,anonymized_real_060.png,anonymized_real_060.png,real,none,none,anonymized_only
+60,real_061.jpg,anonymized_real_060.png,fake_diagram_060.png,tampered,diagram,diagram_roi,short_line_add
+60,real_061.jpg,anonymized_real_060.png,fake_seal_060.png,tampered,seal,seal_roi,seal_color_fade
+61,real_062.jpg,anonymized_real_061.png,anonymized_real_061.png,real,none,none,anonymized_only
+61,real_062.jpg,anonymized_real_061.png,fake_diagram_061.png,tampered,diagram,diagram_roi,line_break
+61,real_062.jpg,anonymized_real_061.png,fake_seal_061.png,tampered,seal,seal_roi,seal_partial_remove
+62,real_063.jpg,anonymized_real_062.png,anonymized_real_062.png,real,none,none,anonymized_only
+62,real_063.jpg,anonymized_real_062.png,fake_diagram_062.png,tampered,diagram,diagram_roi,parallel_line_add
+62,real_063.jpg,anonymized_real_062.png,fake_seal_062.png,tampered,seal,seal_roi,seal_local_blur
+63,real_064.jpg,anonymized_real_063.png,anonymized_real_063.png,real,none,none,anonymized_only
+63,real_064.jpg,anonymized_real_063.png,fake_diagram_063.png,tampered,diagram,diagram_roi,short_line_add
+63,real_064.jpg,anonymized_real_063.png,fake_seal_063.png,tampered,seal,seal_roi,seal_color_fade
+64,real_065.jpg,anonymized_real_064.png,anonymized_real_064.png,real,none,none,anonymized_only
+64,real_065.jpg,anonymized_real_064.png,fake_diagram_064.png,tampered,diagram,diagram_roi,line_break
+65,real_066.jpg,anonymized_real_065.png,anonymized_real_065.png,real,none,none,anonymized_only
+65,real_066.jpg,anonymized_real_065.png,fake_diagram_065.png,tampered,diagram,diagram_roi,parallel_line_add
+65,real_066.jpg,anonymized_real_065.png,fake_seal_065.png,tampered,seal,seal_roi,seal_local_blur
+66,real_067.jpg,anonymized_real_066.png,anonymized_real_066.png,real,none,none,anonymized_only
+66,real_067.jpg,anonymized_real_066.png,fake_diagram_066.png,tampered,diagram,diagram_roi,short_line_add
+67,real_068.jpg,anonymized_real_067.png,anonymized_real_067.png,real,none,none,anonymized_only
+67,real_068.jpg,anonymized_real_067.png,fake_diagram_067.png,tampered,diagram,diagram_roi,line_break
+68,real_070.jpg,anonymized_real_068.png,anonymized_real_068.png,real,none,none,anonymized_only
+68,real_070.jpg,anonymized_real_068.png,fake_diagram_068.png,tampered,diagram,diagram_roi,parallel_line_add
+68,real_070.jpg,anonymized_real_068.png,fake_seal_068.png,tampered,seal,seal_roi,seal_local_blur
+69,real_071.jpg,anonymized_real_069.png,anonymized_real_069.png,real,none,none,anonymized_only
+69,real_071.jpg,anonymized_real_069.png,fake_diagram_069.png,tampered,diagram,diagram_roi,short_line_add
+70,real_072.jpg,anonymized_real_070.png,anonymized_real_070.png,real,none,none,anonymized_only
+70,real_072.jpg,anonymized_real_070.png,fake_diagram_070.png,tampered,diagram,diagram_roi,line_break
+70,real_072.jpg,anonymized_real_070.png,fake_seal_070.png,tampered,seal,seal_roi,seal_partial_remove
+71,real_073.jpg,anonymized_real_071.png,anonymized_real_071.png,real,none,none,anonymized_only
+71,real_073.jpg,anonymized_real_071.png,fake_diagram_071.png,tampered,diagram,diagram_roi,parallel_line_add
+71,real_073.jpg,anonymized_real_071.png,fake_seal_071.png,tampered,seal,seal_roi,seal_local_blur
+72,real_074.jpg,anonymized_real_072.png,anonymized_real_072.png,real,none,none,anonymized_only
+72,real_074.jpg,anonymized_real_072.png,fake_diagram_072.png,tampered,diagram,diagram_roi,short_line_add
+72,real_074.jpg,anonymized_real_072.png,fake_seal_072.png,tampered,seal,seal_roi,seal_color_fade
+73,real_075.jpg,anonymized_real_073.png,anonymized_real_073.png,real,none,none,anonymized_only
+73,real_075.jpg,anonymized_real_073.png,fake_text_073.png,tampered,text,dien_tich,"114,64 -> 114,94"
+73,real_075.jpg,anonymized_real_073.png,fake_diagram_073.png,tampered,diagram,diagram_roi,line_break
+73,real_075.jpg,anonymized_real_073.png,fake_seal_073.png,tampered,seal,seal_roi,seal_partial_remove
+74,real_076.jpg,anonymized_real_074.png,anonymized_real_074.png,real,none,none,anonymized_only
+74,real_076.jpg,anonymized_real_074.png,fake_diagram_074.png,tampered,diagram,diagram_roi,parallel_line_add
+74,real_076.jpg,anonymized_real_074.png,fake_seal_074.png,tampered,seal,seal_roi,seal_local_blur
+75,real_077.jpg,anonymized_real_075.png,anonymized_real_075.png,real,none,none,anonymized_only
+75,real_077.jpg,anonymized_real_075.png,fake_text_075.png,tampered,text,dien_tich,"91,6m -> 21,6m"
+75,real_077.jpg,anonymized_real_075.png,fake_diagram_075.png,tampered,diagram,diagram_roi,short_line_add
+76,real_078.jpg,anonymized_real_076.png,anonymized_real_076.png,real,none,none,anonymized_only
+76,real_078.jpg,anonymized_real_076.png,fake_text_076.png,tampered,text,to_ban_do,7 -> 0
+76,real_078.jpg,anonymized_real_076.png,fake_diagram_076.png,tampered,diagram,diagram_roi,line_break
+76,real_078.jpg,anonymized_real_076.png,fake_seal_076.png,tampered,seal,seal_roi,seal_partial_remove
+77,real_079.jpg,anonymized_real_077.png,anonymized_real_077.png,real,none,none,anonymized_only
+77,real_079.jpg,anonymized_real_077.png,fake_text_077.png,tampered,text,dien_tich,150m -> 153m
+77,real_079.jpg,anonymized_real_077.png,fake_diagram_077.png,tampered,diagram,diagram_roi,parallel_line_add
+77,real_079.jpg,anonymized_real_077.png,fake_seal_077.png,tampered,seal,seal_roi,seal_local_blur
+78,real_080.jpg,anonymized_real_078.png,anonymized_real_078.png,real,none,none,anonymized_only
+78,real_080.jpg,anonymized_real_078.png,fake_text_078.png,tampered,text,to_ban_do,15 -> 45
+78,real_080.jpg,anonymized_real_078.png,fake_diagram_078.png,tampered,diagram,diagram_roi,short_line_add
+78,real_080.jpg,anonymized_real_078.png,fake_seal_078.png,tampered,seal,seal_roi,seal_color_fade
